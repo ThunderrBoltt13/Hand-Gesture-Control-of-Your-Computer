@@ -21,5 +21,5 @@ Connection of components should be done according to the above figure . And foll
 * Import the Arduino code (Provided in this repository) and get the "port number" (Arduino IDE --> Tools --> Port:)
 * Import the Python code and update the serial port number as in the arduino port number
 * Run the Arduino code and simultaneously run the python code.
-* The sensors starts to kick .... "Voila!!"
+* The sensors starts to kick in.... "Voila!!"
 * We can control our computer with our hand gestures.
