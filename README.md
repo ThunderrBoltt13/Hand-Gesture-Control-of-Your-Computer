@@ -11,4 +11,15 @@ In this project, we have implemented a simple Arduino based hand gesture control
 
     ![Control-your-Computer-with-Hand-Gestures-using-Arduino-circuit](https://user-images.githubusercontent.com/93218214/190712582-7cdbff1f-49cb-4dd6-b684-e8c18f450804.png)
 
+Connection of components should be done according to the above figure . And follow the below steps
 
+**Steps : **
+
+* Install Python and Arduino IDE on your computer
+* We need to install Python library-"PyAutoGUI" which is essential to give the keyboard commands to the computer 
+* To install PyAutoGUI , Go to cmd promt - "python3" --> ENTER , then "pip install pyautogui" --> ENTER
+* Import the Arduino code (Provided in this repository) and get the "port number" (Arduino IDE --> Tools --> Port:)
+* Import the Python code and update the serial port number as in the arduino port number
+* Run the Arduino code and simultaneously run the python code.
+* The sensors starts to kick .... "Voila!!"
+* We can control our computer with our hand gestures.
