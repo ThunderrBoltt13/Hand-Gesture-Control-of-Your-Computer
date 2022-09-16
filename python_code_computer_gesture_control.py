@@ -1,6 +1,4 @@
-# gesture control python program for controlling certain functions in windows pc
-# Code by BalaAppu
-# Website: www.electronicshub.org
+
 
 import serial                                      # add Serial library for serial communication
 import pyautogui                                   # add pyautogui library for programmatically controlling the mouse and keyboard.
