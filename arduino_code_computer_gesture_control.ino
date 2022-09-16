@@ -1,8 +1,3 @@
-/*
- * gesture control program for controlling certain functions in windows pc
- * Code by BalaAppu
- * Website: www.electronicshub.org
- */
 
 const int trigPin1 = 11; // the number of the trigger output pin ( sensor 1 )
 const int echoPin1 = 10; // the number of the echo input pin ( sensor 1 )     
